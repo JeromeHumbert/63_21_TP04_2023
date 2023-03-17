@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class Restaurant
 {
     public static void main(String[] args)
